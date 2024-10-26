@@ -26,7 +26,7 @@
   
   <!-- <img src="https://shields.io/badge/-Links:-000" /> -->
   
-  <a href="https://k3lly.dev">
+  <a href="https://qelli.dev">
     <img src="https://shields.io/badge/-Web-9200c9" />
   </a>
 </p>
