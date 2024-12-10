@@ -3,12 +3,14 @@
 
 <p align="center">
   <p align="center">
-    <img align="center" src="docs/spinning_world.svg" height="120"/>
+    <!--<img align="center" src="docs/spinning_world.svg" height="120"/>-->
     <!--
     <a href="https://qelli.dev">
       <img src="https://shields.io/badge/-Web-9200c9" />
     </a>
+    UI in markdown? damn
     -->
+    <br/><br/>
   </p>
   <p align="center">
     Hey, I'm an Open Source enthusiast.
